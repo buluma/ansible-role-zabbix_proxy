@@ -4,7 +4,7 @@ Install and configure zabbix-proxy on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-zabbix_proxy/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-zabbix_proxy/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-zabbix_proxy/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-zabbix_proxy)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/zabbix_proxy)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/zabbix_proxy)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-zabbix_proxy.svg)](https://github.com/buluma/ansible-role-zabbix_proxy/releases/)|
+|[![github](https://github.com/buluma/ansible-role-zabbix_proxy/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-zabbix_proxy/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-zabbix_proxy/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-zabbix_proxy)|[![quality](https://img.shields.io/ansible/quality/58004)](https://galaxy.ansible.com/buluma/zabbix_proxy)|[![downloads](https://img.shields.io/ansible/role/d/58004)](https://galaxy.ansible.com/buluma/zabbix_proxy)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-zabbix_proxy.svg)](https://github.com/buluma/ansible-role-zabbix_proxy/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
