@@ -4,7 +4,7 @@ Install and configure zabbix-proxy on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
 |------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-zabbix_proxy/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-zabbix_proxy/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-zabbix_proxy/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-zabbix_proxy)|[![quality](https://img.shields.io/ansible/quality/58004)](https://galaxy.ansible.com/buluma/zabbix_proxy)|[![downloads](https://img.shields.io/ansible/role/d/58004)](https://galaxy.ansible.com/buluma/zabbix_proxy)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-zabbix_proxy.svg)](https://github.com/buluma/ansible-role-zabbix_proxy/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-zabbix_proxy.svg)](https://github.com/buluma/ansible-role-zabbix_proxy/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-zabbix_proxy.svg)](https://github.com/buluma/ansible-role-zabbix_proxy/pulls/)|
+|[![github](https://github.com/buluma/ansible-role-zabbix_proxy/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-zabbix_proxy/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-zabbix_proxy/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-zabbix_proxy)|[![quality](https://img.shields.io/ansible/quality/58004)](https://galaxy.ansible.com/buluma/zabbix_proxy)|[![downloads](https://img.shields.io/ansible/role/d/58004)](https://galaxy.ansible.com/buluma/zabbix_proxy)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-zabbix_proxy.svg)](https://github.com/buluma/ansible-role-zabbix_proxy/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-zabbix_proxy.svg)](https://github.com/buluma/ansible-role-zabbix_proxy/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-zabbix_proxy.svg)](https://github.com/buluma/ansible-role-zabbix_proxy/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -68,9 +68,9 @@ The following roles are used to prepare a system. You can prepare your system in
 
 | Requirement | GitHub | GitLab |
 |-------------|--------|--------|
-|[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-bootstrap/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-bootstrap)|
-|[buluma.ca_certificates](https://galaxy.ansible.com/buluma/ca_certificates)|[![Build Status GitHub](https://github.com/buluma/ansible-role-ca_certificates/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-ca_certificates/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-ca_certificates/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-ca_certificates)|
-|[buluma.zabbix_repository](https://galaxy.ansible.com/buluma/zabbix_repository)|[![Build Status GitHub](https://github.com/buluma/ansible-role-zabbix_repository/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-zabbix_repository/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-zabbix_repository/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-zabbix_repository)|
+|[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-bootstrap/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-bootstrap)|
+|[buluma.ca_certificates](https://galaxy.ansible.com/buluma/ca_certificates)|[![Build Status GitHub](https://github.com/buluma/ansible-role-ca_certificates/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-ca_certificates/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-ca_certificates/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-ca_certificates)|
+|[buluma.zabbix_repository](https://galaxy.ansible.com/buluma/zabbix_repository)|[![Build Status GitHub](https://github.com/buluma/ansible-role-zabbix_repository/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-zabbix_repository/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-zabbix_repository/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-zabbix_repository)|
 
 ## [Context](#context)
 
@@ -89,7 +89,7 @@ This role has been tested on these [container images](https://hub.docker.com/u/b
 |el|8|
 |debian|bullseye|
 |opensuse|all|
-|ubuntu|all|
+|ubuntu|bionic, focal|
 
 The minimum version of Ansible required is 2.10, tests have been done to:
 
@@ -117,7 +117,7 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [Changelog](#changelog)
 
-[Role History](https://github.com/buluma/ansible-role-zabbix_proxy/blob/main/CHANGELOG.md)
+[Role History](https://github.com/buluma/ansible-role-zabbix_proxy/blob/master/CHANGELOG.md)
 
 ## [License](#license)
 
@@ -125,4 +125,4 @@ Apache-2.0
 
 ## [Author Information](#author-information)
 
-[Robert de Bock](https://buluma.github.io/)
+[buluma](https://buluma.github.io/)
