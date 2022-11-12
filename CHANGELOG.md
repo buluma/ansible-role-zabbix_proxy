@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.8](https://github.com/buluma/ansible-role-zabbix_proxy/tree/1.0.8) (2022-08-09)
+
+[Full Changelog](https://github.com/buluma/ansible-role-zabbix_proxy/compare/1.0.7...1.0.8)
+
 ## [1.0.7](https://github.com/buluma/ansible-role-zabbix_proxy/tree/1.0.7) (2022-04-25)
 
 [Full Changelog](https://github.com/buluma/ansible-role-zabbix_proxy/compare/1.0.6...1.0.7)
