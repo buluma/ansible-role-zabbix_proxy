@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-zabbix_proxy/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-zabbix_proxy/compare/1.1.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump actions/checkout from 3 to 4 [\#15](https://github.com/buluma/ansible-role-zabbix_proxy/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [1.1.0](https://github.com/buluma/ansible-role-zabbix_proxy/tree/1.1.0) (2024-01-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-zabbix_proxy/compare/1.0.9...1.1.0)
