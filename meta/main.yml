@@ -19,8 +19,10 @@ galaxy_info:
         - all
     - name: Ubuntu
       versions:
-        - bionic
         - focal
+        - bionic
+        - noble
+        - jammy
 
   galaxy_tags:
     - zabbix
