@@ -5,4 +5,4 @@
 repository:
   description: Install and configure zabbix-proxy on your system.
   homepage: https://buluma.github.io/
-  topics: zabbix, proxy, ansible, molecule, tox, playbook
+  topics: zabbix, proxy, ansible, molecule, playbook
