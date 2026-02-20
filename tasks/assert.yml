@@ -1,5 +1,4 @@
 ---
-
 - name: assert | Test if zabbix_proxy_mode is set correctly
   ansible.builtin.assert:
     that:
