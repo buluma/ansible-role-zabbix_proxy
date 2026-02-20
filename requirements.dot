@@ -1,0 +1,13 @@
+digraph PhiloDilemma {
+  label = "Michael Buluma" ;
+  overlap=false
+  {
+    "zabbix_proxy" [fillcolor=yellow style=filled penwidth=3]
+    "buluma.bootstrap" [fillcolor=green style=filled]
+    "buluma.ca_certificates" [fillcolor=green style=filled]
+    "buluma.zabbix_repository" [fillcolor=green style=filled]
+  }
+  "zabbix_proxy" -> "buluma.bootstrap"
+  "zabbix_proxy" -> "buluma.ca_certificates"
+  "zabbix_proxy" -> "buluma.zabbix_repository"
+}
