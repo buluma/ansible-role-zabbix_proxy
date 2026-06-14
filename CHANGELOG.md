@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-zabbix_proxy/tree/HEAD)
+## [26.6.0](https://github.com/buluma/ansible-role-zabbix_proxy/tree/26.6.0) (2026-06-14)
 
-[Full Changelog](https://github.com/buluma/ansible-role-zabbix_proxy/compare/24.3.31...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-zabbix_proxy/compare/24.3.31...26.6.0)
 
 **Closed issues:**
 
